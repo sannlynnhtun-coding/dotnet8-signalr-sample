@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8SignalRSample", "DotNet8SignalRSample\DotNet8SignalRSample.csproj", "{649242C3-6B59-4CB9-9F78-9E38D74AD9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649242C3-6B59-4CB9-9F78-9E38D74AD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649242C3-6B59-4CB9-9F78-9E38D74AD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649242C3-6B59-4CB9-9F78-9E38D74AD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649242C3-6B59-4CB9-9F78-9E38D74AD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14423EE-CCBE-4ED3-B713-CA4FC52D5D74}
+	EndGlobalSection
+EndGlobal
